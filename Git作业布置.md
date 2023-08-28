@@ -1,0 +1,10 @@
+- [ ]  准备Termail（终端）环境
+	- [ ] 电脑配置好：Windows + WSL2组合（建议在windows termail中使用wsl2）
+	- [ ] 电脑配置不好：安装一个简单易用的Linux发行版，例如Ubuntu
+- [ ] 科学起飞环境（机场）：能上Google就是成功（Linux用户私聊，单独给一份教程）
+- [ ] Git作业
+	- [ ] 安装Git
+	- [ ] 注册一个Github帐号
+	- [ ] 创建一个自己的Git账户并clone到本地
+	- [ ] 在本地对文件进行修改（touch）
+	- [ ] 
